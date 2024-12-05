@@ -1,17 +1,17 @@
-/*
-Mi comentario
-*/
-
-*{
-    margin:0;
-    box-sizing: border-box;
+.borde{
+    border: 1px solid black;
 }
 
-h1{
-    color:blue;
-    font-weight: 100;
+h2{
+    background: steelblue;
 }
 
-body{
-    font-family: "Raleway", sans-serif;
+.titulo{
+    text-align: right;
+    color:  tomato;
+}
+
+.titulo-bold{
+    border: 1px solid black;
+    text-align: center;
 }
