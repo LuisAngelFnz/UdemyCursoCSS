@@ -1,17 +1,23 @@
-.borde{
-    border: 1px solid black;
+*{
+    text-decoration: underline;
 }
 
-h2{
-    background: steelblue;
+.alex{
+    border:1px solid black;
+}
+
+#section{
+    border: 1px solid red;
 }
 
 .titulo{
-    text-align: right;
-    color:  tomato;
+    text-align: center;
 }
 
-.titulo-bold{
+.😁{
+    color: darkblue;
+}
+
+.😂{
     border: 1px solid black;
-    text-align: center;
 }
